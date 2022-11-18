@@ -7,3 +7,4 @@
     3. LOGACHANDHER A
     4. LOKESH R
 - Industry Mentor : Kusboo
+- Faculty Mentor : Devi D
